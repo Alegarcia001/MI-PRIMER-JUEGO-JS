@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+img{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 800px;
+    height: 800px;
+    margin-left: calc(30vw);
+}
+a{
+    margin-left:  900px;
+}

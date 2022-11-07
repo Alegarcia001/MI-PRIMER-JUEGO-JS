@@ -1,0 +1,46 @@
+body{
+    background-image: url("fotos/fondo2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.imgMorce{
+    float: right;
+    width: 200px;
+    height: 200px;
+}
+.pos{
+    float: right;
+    margin-right: 45%;
+    font-size: 50px;
+    color: yellow;
+    display:block;
+}
+.pos2{
+    float: right;
+    margin-right: 45%;
+    font-size: 50px;
+    color: yellow;
+    display:block;
+}
+.tam{
+    width: 200px;
+    height: 200px;
+}
+div{
+    width: 400px;
+    height: 200px;
+    float: right;
+}
+input{
+    margin-top: 100%;
+    height: 70px;
+    width: 198px;
+}
+
+.codigo{
+    margin-left: 25%;
+}
+.imageMia{
+    float: left;
+    width: 300px;
+}
